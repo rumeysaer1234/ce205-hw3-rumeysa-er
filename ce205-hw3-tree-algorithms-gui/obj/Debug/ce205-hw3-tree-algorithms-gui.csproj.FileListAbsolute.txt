@@ -1,0 +1,10 @@
+C:\Users\msi-nb\Desktop\ce205-hw3-rumeysa-er\ce205-hw3-tree-algorithms-gui\bin\Debug\ce205-hw3-tree-algorithms-gui.exe.config
+C:\Users\msi-nb\Desktop\ce205-hw3-rumeysa-er\ce205-hw3-tree-algorithms-gui\bin\Debug\ce205-hw3-tree-algorithms-gui.exe
+C:\Users\msi-nb\Desktop\ce205-hw3-rumeysa-er\ce205-hw3-tree-algorithms-gui\bin\Debug\ce205-hw3-tree-algorithms-gui.pdb
+C:\Users\msi-nb\Desktop\ce205-hw3-rumeysa-er\ce205-hw3-tree-algorithms-gui\obj\Debug\ce205-hw3-tree-algorithms-gui.csproj.AssemblyReference.cache
+C:\Users\msi-nb\Desktop\ce205-hw3-rumeysa-er\ce205-hw3-tree-algorithms-gui\obj\Debug\ce205-hw3-tree-algorithms-gui.csproj.SuggestedBindingRedirects.cache
+C:\Users\msi-nb\Desktop\ce205-hw3-rumeysa-er\ce205-hw3-tree-algorithms-gui\obj\Debug\ce205_hw3_tree_algorithms_gui.Properties.Resources.resources
+C:\Users\msi-nb\Desktop\ce205-hw3-rumeysa-er\ce205-hw3-tree-algorithms-gui\obj\Debug\ce205-hw3-tree-algorithms-gui.csproj.GenerateResource.cache
+C:\Users\msi-nb\Desktop\ce205-hw3-rumeysa-er\ce205-hw3-tree-algorithms-gui\obj\Debug\ce205-hw3-tree-algorithms-gui.csproj.CoreCompileInputs.cache
+C:\Users\msi-nb\Desktop\ce205-hw3-rumeysa-er\ce205-hw3-tree-algorithms-gui\obj\Debug\ce205-hw3-tree-algorithms-gui.exe
+C:\Users\msi-nb\Desktop\ce205-hw3-rumeysa-er\ce205-hw3-tree-algorithms-gui\obj\Debug\ce205-hw3-tree-algorithms-gui.pdb
